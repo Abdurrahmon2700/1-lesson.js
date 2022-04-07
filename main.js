@@ -1,4 +1,4 @@
-alert ('Xush kelibsiz');
+alert ('Welcome');
 let namOfuser = prompt('Input name');
 let fullNameOfuser = prompt('Full name');
 let ageOfuser = prompt('Age');
